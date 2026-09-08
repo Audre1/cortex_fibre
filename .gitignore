@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node / Expo (added with frontend/mobile-client)
+node_modules/
+frontend/*/node_modules/
+.expo/
+*.log
